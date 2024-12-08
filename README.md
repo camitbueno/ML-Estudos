@@ -1,2 +1,2 @@
 # ML-Estudos
- Estudos de Regressão Linear, Forecast e outros algoritmos de Machine Learning
+ Projetos de estudo de Regressão Linear, Forecast e outros algoritmos de Machine Learning
